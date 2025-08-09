@@ -9,7 +9,15 @@
 	"description": "This mod contains and integrates HD textures for the the decoratives of the base game.",
 	"package": {
 		"gallery": [
-			".gallery/thumbnail_huge.png"
+			".gallery/thumbnail_huge.png",
+			".gallery/worms-decal-00-SD.png",
+			".gallery/worms-decal-00-HD.png",
+			".gallery/red-croton-00-SD.png",
+			".gallery/red-croton-00-HD.png",
+			".gallery/huge-rock-18-SD.png",
+			".gallery/huge-rock-18-HD.png",
+			".gallery/green-hairy-grass-04-SD.png",
+			".gallery/green-hairy-grass-04-HD.png"
 		],
 		"prune_gallery": true,
 		"faq": "FAQ.md",
