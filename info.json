@@ -22,6 +22,9 @@
 		"prune_gallery": true,
 		"faq": "FAQ.md",
 		"sync_portal_details": true,
-		"no_git_push": true
+		"no_git_push": true,
+		"markdown": {
+			"strip_first_header": false
+		}
 	}
 }
